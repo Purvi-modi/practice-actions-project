@@ -2,7 +2,7 @@ import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
 function App() {
-  const unusedVariable = 10;
+  //const unusedVariable = 10; for lint error
   return (
     <>
       <header>
